@@ -1,0 +1,16 @@
+{
+	"file": "drow1.glb",
+	"type": "character",
+	"materialOverride": {
+		"alphaMap": null
+	},
+	"camera": {
+		"distanceFromFloor": 3.5,
+		"targetRadius": 15,
+		"lookAtOffset": 3
+	},
+	"idleAnimations": {
+		"default": "spell_idle",
+		"random": [ "fireball" ]
+	}
+}
