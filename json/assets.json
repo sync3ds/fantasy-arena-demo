@@ -44,6 +44,11 @@
 			"name": "Drow 1",
 			"uid": "drow1",
 			"reference": "characters/drow1"
+		},
+		{
+			"name": "Orc 1",
+			"uid": "orc1",
+			"reference": "characters/orc1"
 		}
 	]
 
