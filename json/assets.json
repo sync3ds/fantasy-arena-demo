@@ -29,7 +29,7 @@
 				{
 					"name": "Arena",
 					"reference": "environment/arena-test",
-					"startPos": { "x": 0, "y": 1, "z": 0 },
+					"startPos": { "x": 0, "y": 0, "z": 0 },
 					"startRot": { "x": 0, "y": 0, "z": 0 }
 				}
 			],

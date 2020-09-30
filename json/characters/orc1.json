@@ -9,8 +9,15 @@
 		"targetRadius": 15,
 		"lookAtOffset": 3
 	},
-	"idleAnimations": {
+	"physics": {
+		"mass": 500,
+		"speed": 2,
+		"rotationalSpeed": 2.5,
+		"jumpForce": 2500
+	},
+	"animations": {
 		"default": "idle",
+		"swapSpeed": 0.5,
 		"random": [ "battlecry1", "battlecry2" ]
 	}
 }

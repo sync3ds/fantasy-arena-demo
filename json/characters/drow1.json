@@ -9,6 +9,11 @@
 		"targetRadius": 15,
 		"lookAtOffset": 3
 	},
+	"physics": {
+		"mass": 50,
+		"speed": 500,
+		"rotationalSpeed": 5
+	},
 	"idleAnimations": {
 		"default": "spell_idle",
 		"random": [ "fireball" ]
