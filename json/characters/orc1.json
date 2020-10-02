@@ -12,7 +12,7 @@
 	"physics": {
 		"mass": 500,
 		"speed": 2,
-		"rotationalSpeed": 2.5,
+		"rotationalSpeed": 4,
 		"jumpForce": 2500
 	},
 	"animations": {
