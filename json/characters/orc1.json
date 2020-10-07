@@ -16,8 +16,8 @@
 		"jumpForce": 3500
 	},
 	"animations": {
-		"default": "idle",
 		"swapSpeed": 0.5,
-		"random": [ "battlecry1", "battlecry2" ]
+		"default": "idle",
+		"attack": [ "attack1", "attack2", "attack3", "attack4" ]
 	}
 }
