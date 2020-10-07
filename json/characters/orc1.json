@@ -12,8 +12,8 @@
 	"physics": {
 		"mass": 500,
 		"speed": 2,
-		"rotationalSpeed": 4,
-		"jumpForce": 2500
+		"rotationalSpeed": 8,
+		"jumpForce": 3500
 	},
 	"animations": {
 		"default": "idle",
