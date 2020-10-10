@@ -6,8 +6,8 @@
 	},
 	"camera": {
 		"distanceFromFloor": 3.5,
-		"targetRadius": 15,
-		"lookAtOffset": 3
+		"targetRadius": 12.5,
+		"lookAtOffset": 2.5
 	},
 	"physics": {
 		"mass": 500,

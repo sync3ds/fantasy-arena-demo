@@ -34,14 +34,12 @@
 				}
 			],
 			"scene": {
-				"envMap": "kloppenheim_02_1k.hdr",
-				"backgroundMap": "sky.jpg",
+				"envMap": "unearthly-red-4k.hdr",
+				"backgroundMap": "sky1",
 				"sunSettings": {
-					"intensity": 1.5,
-					"inclination": 0,
-					"azimuth": 0.055,
-					"skyColor": "rgb(255, 213, 164)",
-					"groundColor": "rgb(0, 0, 0)"
+					"intensity": 4,
+					"inclination": 0.38,
+					"azimuth": 0.25
 				}
 			}
 		}
