@@ -35,11 +35,11 @@
 			],
 			"scene": {
 				"envMap": "unearthly-red-4k.hdr",
-				"backgroundMap": "sky1",
+				"backgroundMap": "cape_hill",
 				"sunSettings": {
-					"intensity": 4,
+					"intensity": 2,
 					"inclination": 0.38,
-					"azimuth": 0.25
+					"azimuth": 0.20
 				}
 			}
 		}
